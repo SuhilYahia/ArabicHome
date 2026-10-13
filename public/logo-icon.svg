@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <rect width="100" height="100" rx="20" fill="#252522" />
+  <!-- Architectural Arch & Contemporary Roof Apex -->
+  <path d="M50 18L76 42H24L50 18Z" fill="#A88B64" />
+  <path d="M30 46H70V76C70 79.3137 67.3137 82 64 82H36C32.6863 82 30 79.3137 30 76V46Z" stroke="#F7F4EE" stroke-width="3.5" />
+  <!-- Inner Elegant Islamic/Modern Arch Gate -->
+  <path d="M42 82V60C42 55.5817 45.5817 52 50 52C54.4183 52 58 55.5817 58 60V82" stroke="#A88B64" stroke-width="3" stroke-linecap="round" />
+  <!-- Precision golden line -->
+  <line x1="20" y1="88" x2="80" y2="88" stroke="#D8C6AE" stroke-width="2" stroke-linecap="round" />
+</svg>
